@@ -26,7 +26,7 @@ setIndex(selectedIndex);
 
             <h3>My React Single Page Application Site</h3>
 
-           <a href='https://reactsingleapp.netlify.app/' target="blank">Website</a>
+           <a href='https://reactsingleapp.netlify.app/' target="blank">Portfolio Demonstration Site</a>
 
 
           </Carousel.Caption>
@@ -44,7 +44,7 @@ setIndex(selectedIndex);
 
             <h3>Demonstration Vitamin Drink Site</h3>
 
-            <a href='https://vitaminstore.netlify.app/' target="blank">Website</a>
+            <a href='https://vitaminstore.netlify.app/' target="blank">Portfolio Demonstration Site</a>
 
           </Carousel.Caption>
 
@@ -63,7 +63,7 @@ setIndex(selectedIndex);
  
  <p> This is a single page demo site. </p>
 
- <a href='http://demonstrationsites.freecluster.eu/03_notes/end/' target="blank">Website</a>
+ <a href='http://demonstrationsites.freecluster.eu/03_notes/end/' target="blank">Portfolio Demonstration Site</a>
 
 </Carousel.Caption>
 
@@ -82,7 +82,7 @@ setIndex(selectedIndex);
 
             <p> This is a single page demo site.  </p>
 
-            <a href='http://demonstrationsites.freecluster.eu/02_notes/end/' target="blank">Website</a>
+            <a href='http://demonstrationsites.freecluster.eu/02_notes/end/' target="blank">Portfolio Demonstration Site</a>
 
           </Carousel.Caption>
 
@@ -98,7 +98,7 @@ setIndex(selectedIndex);
 
   <h3>Demonstration Music Promotion Site</h3>
 
-  <a href='http://demonstrationsites.freecluster.eu/Music%20after/' target="blank">Website</a>
+  <a href='http://demonstrationsites.freecluster.eu/Music%20after/' target="blank">Portfolio Demonstration Site</a>
 
 </Carousel.Caption>
 
@@ -115,7 +115,7 @@ setIndex(selectedIndex);
 
             <h3>React Vet Application</h3>
 
-            <a href='https://reactinterface.netlify.app/' target="blank">Website</a>
+            <a href='https://reactinterface.netlify.app/' target="blank">Portfolio Demonstration Site</a>
 
           </Carousel.Caption>
 
